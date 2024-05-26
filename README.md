@@ -1,3 +1,15 @@
+## Installation Guide
+
+````
+composer install
+php artisan migrate
+php artisan serve
+php artisan queue:work
+````
+
+
+
+
 ## API Reference
 
 #### Sync Product Data
